@@ -1,3 +1,30 @@
+.clickable {
+    -webkit-app-region: no-drag;
+}
+
+.draggable {
+    -webkit-app-region: drag;
+}
+
+.border-absblack {
+    border-color: black;
+}
+
+::-webkit-scrollbar {
+    background-color: #2B2B2B;
+    border-left: 1px solid #3e3e3e;
+    width: 0.7rem;
+}
+
+::-webkit-scrollbar-thumb {
+    background: #6B6B6B;
+    border-radius: 10px;
+}
+
+
+
+
+
 /**
  * This injects Tailwind's base styles, which is a combination of
  * Normalize.css and some additional base styles.
