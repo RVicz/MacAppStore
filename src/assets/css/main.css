@@ -21,7 +21,12 @@
     border-radius: 10px;
 }
 
-
+.discover-banner {
+    background: url('../img/cover1.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 300px;
+}
 
 
 
