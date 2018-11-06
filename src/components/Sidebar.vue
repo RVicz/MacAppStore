@@ -1,5 +1,17 @@
 <template>
     <div class="bg-grey-darkest w-56 text-white border-r border-absblack fixed min-h-screen pt-8">
+        <div class="pin-t px-4 py-4 items-center justify-between">
+            <span class="px-4">
+                <svg width="20" height="20" viewBox="0 0 1792 1792" xmlns="http://www.w3.org/2000/svg"><path d="M1792 1312v192q0 66-47 113t-113 47h-1472q-66 0-113-47t-47-113v-192q0-66 47-113t113-47h1472q66 0 113 47t47 113z" fill="currentColor"/></svg>
+            </span>
+            <span class="px-4">
+                <svg width="20" height="20" viewBox="0 0 1792 1792" xmlns="http://www.w3.org/2000/svg"><path d="M256 1408h1280v-768h-1280v768zm1536-1120v1216q0 66-47 113t-113 47h-1472q-66 0-113-47t-47-113v-1216q0-66 47-113t113-47h1472q66 0 113 47t47 113z" fill="currentColor"/></svg>
+            </span>
+            <span class="px-4">
+                <svg width="20" height="20" viewBox="0 0 1792 1792" xmlns="http://www.w3.org/2000/svg"><path d="M1490 1322q0 40-28 68l-136 136q-28 28-68 28t-68-28l-294-294-294 294q-28 28-68 28t-68-28l-136-136q-28-28-28-68t28-68l294-294-294-294q-28-28-28-68t28-68l136-136q28-28 68-28t68 28l294 294 294-294q28-28 68-28t68 28l136 136q28 28 28 68t-28 68l-294 294 294 294q28 28 28 68z" fill="currentColor"/></svg>
+            </span>
+        </div>
+
         <div class="search-container text-center p-4 relative border-grey-light clickable">
             <input type="text" placeholder="Search" class="bg-grey-darker text-grey-light text-xs w-full p-2 pl-8 border-grey-dark rounded ">
 

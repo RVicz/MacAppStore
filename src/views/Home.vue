@@ -32,8 +32,214 @@
 
     <div class="border-b border-grey-darker mb-10"></div>
 
+    <div class="games-we-love">
+      <div class="flex justify-between">
+        <h2 class="font-normal mb-8">Apps and Games We Love Right Now</h2>
+        <a href="#" class="text-blue no-underline">See All</a>
+      </div>
+    </div>
 
-    <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Modi commodi delectus tenetur culpa nisi consequuntur repellendus unde temporibus ratione blanditiis perferendis recusandae dolores ipsa autem, porro obcaecati earum? Nihil a minima labore totam magnam accusamus assumenda impedit praesentium voluptate molestiae, optio iusto fugiat quod, quo aut hic vel quas ipsa nisi earum corrupti? Dolorem ducimus eum magnam! Id assumenda sint dolorem dignissimos, quisquam architecto explicabo? Asperiores fugiat, itaque sapiente expedita obcaecati quia debitis dolores, voluptates atque nihil numquam a ipsum nostrum voluptatibus officia recusandae error necessitatibus odit maiores? Omnis atque veniam esse expedita minima assumenda rerum recusandae at nisi eveniet cupiditate ullam natus aliquam illo doloribus officiis repellat accusantium quisquam, explicabo obcaecati perspiciatis inventore. Inventore architecto pariatur nemo repudiandae, reprehenderit iusto aperiam commodi provident beatae vel totam! Magnam illo esse quisquam repudiandae sed eligendi totam officiis facilis quo, dolorum saepe sint debitis deserunt maiores fugit velit? Dolor illum amet, illo sapiente enim neque quidem excepturi explicabo nulla unde quam atque obcaecati culpa molestiae debitis dolores maxime. Dolores officia ducimus blanditiis consequuntur ea, molestiae dolorem, repellat unde quidem atque dignissimos, quo tempore praesentium porro! Suscipit cumque expedita officiis, temporibus dolorem sunt voluptatibus eveniet, animi molestiae provident tempora asperiores consectetur eum vitae saepe voluptate pariatur laborum laudantium nisi, non ex quae accusamus harum ut. Nesciunt atque facilis deleniti sint fugiat nemo accusamus nostrum commodi ipsam a. Incidunt sint ducimus illo, corrupti inventore necessitatibus vitae qui esse, dolor, deleniti tempore error similique natus recusandae sapiente? Adipisci delectus laborum, tempore sequi officiis exercitationem doloribus, vitae unde quos quis aspernatur sit, necessitatibus recusandae in molestiae reiciendis aliquid optio similique? Vitae, nobis eius nesciunt provident vero natus voluptatum ipsum assumenda eligendi temporibus repudiandae soluta eveniet non quae ducimus amet veniam necessitatibus, ad quia placeat dolorem doloribus? Molestiae, alias corporis. Voluptate explicabo quod consequuntur. Velit non dignissimos cupiditate commodi ipsam? Accusamus dolor, tenetur rerum modi velit amet temporibus ex veniam doloremque sed? Quasi natus maxime facere at explicabo deleniti sequi fuga, quos pariatur suscipit dolorum quidem dolore dolorem, totam voluptatem voluptatum reprehenderit? Atque quasi itaque dignissimos est iusto quo laboriosam! Tempore minima illum id, tempora accusamus, ipsa totam, est iste nihil necessitatibus sint modi ut aut eveniet corporis? Est adipisci recusandae itaque, fugiat laudantium aspernatur voluptatibus animi, quas unde eos, ipsa maiores ducimus ex quibusdam sit esse praesentium corporis magnam? Cum dolore odit commodi in autem qui magnam tenetur earum rerum? Explicabo harum nisi assumenda nesciunt minus dolorum reiciendis dolor officiis vel adipisci. Consequuntur doloremque porro nam? Quam, laudantium dolor eveniet ipsa harum possimus eum recusandae, et debitis eaque doloribus soluta exercitationem dicta eius fugit architecto temporibus? Tenetur voluptatum ea saepe totam consequuntur harum vitae doloribus voluptates provident dolorum praesentium, inventore exercitationem veniam quo corporis tempora consequatur ipsa sit asperiores libero aspernatur eveniet ipsam. Beatae, reprehenderit ad? Odio quisquam ad soluta aperiam eveniet labore consequuntur magnam cumque a, debitis architecto voluptatibus repudiandae consectetur dolor! Neque, voluptas eligendi id molestiae debitis quidem dicta iusto dolore quae, culpa alias illum nobis. Totam excepturi deserunt architecto accusantium animi sunt repudiandae adipisci. Consequatur beatae maxime est laborum molestiae eveniet commodi dolores, quibusdam dolorum. Necessitatibus, praesentium porro consequuntur, unde molestias blanditiis dolorem aspernatur harum placeat corrupti amet accusamus debitis totam tenetur ipsa voluptates quia accusantium facilis quisquam iusto fugiat cumque ea eum? Non, distinctio reprehenderit? Cum magni voluptas doloremque dolor illum deleniti ut, explicabo nihil illo velit nesciunt optio, totam ducimus alias quia consequuntur. Recusandae neque aperiam laborum molestias cumque aut, maxime sint error libero quam odit consequatur vel suscipit? Blanditiis temporibus autem quas nisi enim debitis, voluptas, possimus laborum facere veritatis magni quasi ab amet. Aliquam quasi distinctio error laboriosam in ullam architecto aut corrupti nesciunt tempore, deleniti, illo officia, nisi cupiditate et. Ipsam voluptate iusto reprehenderit quos delectus. Aliquam perferendis et non nam ipsa nostrum quas, dolore esse accusantium libero veritatis, corrupti quaerat maiores deleniti doloremque quae aperiam. Unde dignissimos porro delectus modi ducimus ratione quisquam eos, incidunt vitae. Ex, in cupiditate. Architecto quos consequuntur debitis. Dignissimos deserunt pariatur impedit sapiente sed aut facere dolores incidunt! Maxime eos optio sed praesentium corporis autem, nobis nulla nam quidem ad quae molestias quas illum aspernatur nihil ullam fuga placeat voluptates minima tempore impedit fugit et! Amet dignissimos incidunt quo alias, corrupti sint, a aut ipsa deserunt tenetur quasi veritatis quibusdam cumque id libero dolore vero asperiores blanditiis error magni. Amet porro quod animi neque quaerat deserunt. Repellendus ipsam dolores quibusdam voluptatem distinctio voluptas in sunt esse at error consectetur recusandae harum molestias quas perspiciatis voluptatibus eveniet, cumque id laudantium consequatur ducimus sed nulla amet! Perferendis delectus accusantium cum itaque illum corrupti! Nisi ipsa sint vel reprehenderit fugiat deleniti, libero ab. Soluta totam similique, eligendi nemo tenetur adipisci praesentium beatae eos dolore repellendus deleniti eius maiores sint architecto, ad rem magnam quod doloremque officiis, explicabo iure ipsum unde sunt animi. Magnam aliquid enim dolore in, impedit modi, sunt eos expedita quia, velit illo quaerat repellendus deserunt a? At, porro esse, consequatur, nemo eligendi animi minima repellendus facilis ad consequuntur praesentium natus sunt quos mollitia. Necessitatibus, dolore illum. Perferendis architecto eligendi, excepturi delectus fugit dolor ea soluta, blanditiis in quasi distinctio ipsum. Assumenda officiis inventore, vel eius aliquam iure qui aut quis porro officia id nesciunt veritatis nulla recusandae, perspiciatis repellendus quas quod laborum facere! In harum cum excepturi nostrum magni accusamus blanditiis aut delectus obcaecati, enim nemo commodi aspernatur quidem voluptate esse voluptas quod eveniet laborum veritatis aliquam neque asperiores unde sit nesciunt. Obcaecati laborum dolore fugit eligendi deleniti at dolor minima officiis nemo. Quisquam nostrum est consectetur dolores nisi id facere, sit sapiente aut quibusdam amet! Consequuntur sequi temporibus aliquid pariatur asperiores, voluptatem quod veritatis omnis distinctio, vitae porro ratione alias amet ad blanditiis illum aut molestias, dolorem illo sit provident modi ut numquam ipsa. Earum, enim! Quod, iusto? Suscipit, mollitia. Repudiandae, vel aut nulla voluptatem aperiam recusandae nisi molestiae ab vero ad aspernatur dolorem eaque eveniet? Expedita, itaque nam. Reprehenderit labore animi nihil eaque tempore dignissimos voluptatum eveniet, velit cupiditate voluptatibus voluptas aspernatur praesentium, aliquam, iusto aperiam placeat deserunt harum sint nisi corrupti rem sapiente omnis earum. Vel quibusdam beatae, esse, reprehenderit numquam voluptatem voluptates odit modi aliquid veniam dicta! Nisi, distinctio vitae nam exercitationem modi velit, enim dicta quae sapiente incidunt temporibus quibusdam quas delectus, molestiae eveniet aliquam dolorem nostrum quam voluptatum esse accusantium. Maiores praesentium ut reiciendis error adipisci, corporis architecto vel! Rerum vero facere neque, nobis, incidunt a illo provident, labore voluptas voluptates deserunt odio. Aliquid adipisci, ut error id est saepe et quae autem? Ducimus iste natus hic dignissimos exercitationem laudantium impedit amet mollitia doloribus libero dolores voluptatum porro, harum labore aut? Consequatur, praesentium! Similique veniam repellat minus vel vitae corrupti ipsum error nulla tempore quas eligendi suscipit ut cumque, recusandae nam omnis aliquam tempora deleniti ratione magni consequatur eaque libero tenetur. A aliquam minus aperiam deserunt libero ipsum numquam veniam quidem consequatur est doloribus vel, consequuntur esse aut magni tempore voluptatibus voluptatum. Quod vel accusamus obcaecati laudantium suscipit perferendis omnis, magni dolor veniam aliquam ab, odio placeat rem labore minus quos? Quisquam, modi libero magnam deserunt et iste praesentium tempore doloribus, unde mollitia natus aliquid. Adipisci provident asperiores aut porro voluptatum quisquam, dicta doloribus sint itaque fugit similique, illum exercitationem, veniam quam maiores hic eveniet doloremque nostrum? Impedit facilis reprehenderit dignissimos repellat eveniet labore minus vel consequuntur quae, tempore libero, amet provident! Fugit laboriosam, nesciunt, deserunt repudiandae vel inventore, quidem modi perspiciatis tempora quaerat natus dolore architecto earum odit commodi ad quibusdam labore quae doloremque aliquid molestias incidunt quis ea eaque. Cupiditate perferendis praesentium saepe animi laborum in eius obcaecati explicabo hic ut eum, quaerat, ab illo vitae necessitatibus ipsa totam nemo illum non id voluptatem delectus sunt. Quasi quisquam non sunt rerum, necessitatibus incidunt? Voluptatem quibusdam vitae commodi porro. Distinctio ipsam itaque soluta voluptate doloribus, repudiandae provident quod dolore alias facere ducimus libero doloremque sunt consequatur dignissimos, in eos, nesciunt ratione incidunt! Vel beatae, ad ex voluptatem totam quos labore deleniti nisi quia eum nobis repudiandae iure. Praesentium fugiat quidem, dicta aspernatur facilis assumenda illo aliquam? Sapiente cumque perferendis officia excepturi dolor enim velit recusandae, possimus inventore ipsum debitis laboriosam! Quibusdam distinctio illo expedita impedit recusandae at quis magnam, veniam repellat perferendis earum reiciendis molestiae sequi, excepturi ut autem! Aliquid animi, explicabo fugiat suscipit modi earum iure officia maxime temporibus. Obcaecati eius porro beatae? Velit id, ducimus nobis modi cumque doloribus illum sed. Aut iure aperiam ipsum vel, similique esse voluptatem cumque cupiditate, sit ab aliquid. Inventore debitis voluptate facere excepturi commodi deleniti in veniam, est cum culpa veritatis repellendus, laudantium non ut autem quasi tempora illum sit consequuntur consectetur. Laboriosam debitis hic at enim ex quisquam exercitationem id, quas earum fugiat aspernatur ipsam obcaecati laborum distinctio reprehenderit voluptatem eveniet. Dolore sed corporis vero libero ullam? Consequuntur, provident. A illum nobis, consequatur, deleniti eius optio suscipit sit dolore nisi perferendis nulla veritatis rerum explicabo vel voluptas eum exercitationem repellendus. Adipisci, odio? Iure est nulla, labore esse similique qui, cum aliquam deserunt amet atque delectus. Labore placeat magni cupiditate consectetur suscipit dignissimos aliquam aspernatur cumque, at totam, fugiat inventore fugit quisquam? Nisi pariatur, iste itaque officia laudantium nobis repudiandae laborum fugit voluptates fuga minus dolorum aliquam maiores odio nemo? Quod, voluptates facilis. Placeat, numquam! Quisquam dolor mollitia minus! Harum, officiis tempore! Totam quae pariatur natus labore aliquid dolorum fuga distinctio id nostrum quos impedit iure exercitationem non nisi blanditiis quaerat sed quibusdam, rerum laborum incidunt fugit magnam. Odit neque et veniam placeat magni inventore quidem nostrum voluptatibus praesentium asperiores fugiat fuga amet similique totam quos aperiam accusantium natus, expedita aut excepturi ratione, modi repudiandae! Assumenda, libero deleniti esse, sed minus provident vitae dolor in, non voluptatum ab! Tempora sapiente fuga corrupti asperiores assumenda omnis quos quia quam esse unde illum, beatae fugit officiis, eum dolores, provident rerum vitae necessitatibus. Quos cumque corrupti consequatur tempora delectus ipsam, provident alias, repellat placeat est velit recusandae perspiciatis nulla facilis, quod architecto a tempore rerum voluptate vitae! Necessitatibus quibusdam pariatur blanditiis ipsam, distinctio ipsa voluptates beatae inventore accusamus soluta! Fuga, architecto dicta esse possimus debitis magnam aliquid officiis deleniti atque impedit provident ab aliquam animi recusandae ea quasi totam. Aut nobis odit laborum aliquid incidunt ullam quia consequatur fugit. Possimus dolore provident fuga vel. Libero distinctio unde voluptate, dolorem sequi cumque. Illo minus facere quidem veniam nostrum sed asperiores? Reprehenderit iure facilis eaque, dignissimos, architecto qui ipsam odit quod molestiae eum distinctio repellat asperiores accusamus sint est excepturi. Officia deleniti repellendus facilis atque at, sit enim similique doloremque, minima neque voluptatem quos recusandae repudiandae minus? Praesentium quo doloremque sed iste excepturi sapiente doloribus velit temporibus voluptates natus provident magnam nam repellendus non, dolorem accusantium nostrum eos earum placeat error! Aliquid eligendi vitae nam corporis assumenda magni accusamus alias blanditiis! Quos, consectetur voluptatum dolore obcaecati animi blanditiis velit provident exercitationem et ea, molestias accusamus minima! Delectus vitae debitis, possimus sapiente quod tempora dignissimos voluptatibus doloremque fugit deleniti corporis eum architecto excepturi. Id consequuntur eveniet vitae minima exercitationem accusamus? Dolor, delectus accusamus dolorum assumenda fuga doloremque quisquam commodi dignissimos cumque, a, tempora ab. Similique et amet qui iusto? Dolor repudiandae libero velit quia ad praesentium minus dolorum nisi obcaecati sequi facilis totam a, unde vero laboriosam expedita possimus repellendus culpa, esse commodi iure! Maxime id eum cupiditate quas sapiente, mollitia similique ad, illo cumque soluta nemo voluptates officia, impedit expedita aperiam nisi ab dolore porro. Cum fuga blanditiis delectus, officiis perferendis nisi mollitia natus culpa quibusdam ut quam unde laboriosam numquam quisquam dolorem expedita porro dolores at dolor, corporis ad? Delectus cupiditate, tempora necessitatibus obcaecati autem ex dolorum iste debitis culpa harum nesciunt molestias assumenda et odio illo nostrum porro quidem placeat temporibus dicta minima inventore? Perspiciatis ab numquam necessitatibus reiciendis impedit sit iusto eius aperiam molestias? Saepe quod nam, atque, dicta deserunt quaerat vitae nemo corporis quas eum culpa minus veniam ea quisquam placeat, aut eveniet rem porro distinctio assumenda sequi iusto officiis repellat. Ad fugit magnam reiciendis, dolorum quisquam enim vel architecto assumenda excepturi itaque culpa ipsa repellendus numquam maxime, nesciunt veritatis ullam voluptatum nisi! Debitis accusantium possimus recusandae quos.</p>
+    <div class="flex flex-wrap mb-4">
+      <div class="w-1/2 flex">
+        <div class="w-24">
+          <img src="../assets/img/019-quora.svg" alt="Quora">
+        </div>
+        <div class="pl-6 flex-1 pr-6">
+          <div class="mb-1">Quora 2018 Pro</div>
+          <div class="text-grey text-xs mb-6">Talk. Discuss. Share. Learn.</div>
+          <div class="mb-8">
+            <span class="bg-white text-blue rounded-full px-3 py-1 text-xs font-bold">$399.99</span>
+          </div>
+          <div class="border-b border-grey-darker mb-10"></div>
+        </div>
+      </div>
+
+      <div class="w-1/2 flex">
+        <div class="w-24">
+          <img src="../assets/img/013-soundcloud.svg" alt="SoundCloud">
+        </div>
+        <div class="pl-6 flex-1 pr-6">
+          <div class="mb-1">SoundCloud</div>
+          <div class="text-grey text-xs mb-6">Share your music with friends and followers today!</div>
+          <div class="mb-8">
+            <span class="bg-white text-blue rounded-full px-3 py-1 text-xs font-bold">FREE</span>
+          </div>
+          <div class="border-b border-grey-darker mb-10"></div>
+        </div>
+      </div>
+
+      <div class="w-1/2 flex">
+        <div class="w-24">
+          <img src="../assets/img/012-spotify.svg" alt="Quora">
+        </div>
+        <div class="pl-6 flex-1 pr-6">
+          <div class="mb-1">Spotify</div>
+          <div class="text-grey text-xs mb-6">Round up the best tracks, playlists and albums you can imagine, free of charge.</div>
+          <div class="mb-8">
+            <span class="bg-white text-blue rounded-full px-3 py-1 text-xs font-bold">FREE</span>
+          </div>
+          <div class="border-b border-grey-darker mb-10"></div>
+        </div>
+      </div>
+
+      <div class="w-1/2 flex">
+        <div class="w-24">
+          <img src="../assets/img/003-wordpress.svg" alt="Quora">
+        </div>
+        <div class="pl-6 flex-1 pr-6">
+          <div class="mb-1">Wordpress</div>
+          <div class="text-grey text-xs mb-6">Market your business within minutes.</div>
+          <div class="mb-8">
+            <span class="bg-white text-blue rounded-full px-3 py-1 text-xs font-bold">$199.99</span>
+          </div>
+          <div class="border-b border-grey-darker mb-10"></div>
+        </div>
+      </div>
+    </div>
+
+    <div class="border-b border-grey-darker mb-6"></div>
+
+    <div class="top-paid">
+      <div class="flex justify-between">
+        <h2 class="font-normal mb-8">Top Paid</h2>
+        <a href="#" class="text-blue no-underline">See All</a>
+      </div>
+    </div>
+
+    <div class="flex flex-wrap mb-4">
+      <div class="w-1/2 flex">
+        <div class="w-24">
+          <img src="../assets/img/019-quora.svg" width="60px" alt="Quora">
+        </div>
+        <div class="flex px-1">
+          <span class="text-white">1</span>
+        </div>
+        <div class="pl-6 flex-1 pr-6">
+          <div class="flex justify-between">
+            <div class="w-1/2">
+              <div class="mb-1">Quora 2018 Pro</div>
+              <div class="text-grey text-xs mb-6">Talk. Discuss. Share. Learn.</div>
+            </div>
+            <div class="w-1/2 text-right">
+              <span class="bg-white text-blue rounded-full px-3 py-1 text-xs font-bold">$399.99</span>
+            </div>
+          </div>
+          <div class="border-b border-grey-darker mb-10"></div>
+        </div>
+      </div>
+
+      <div class="w-1/2 flex">
+        <div class="w-24">
+          <img src="../assets/img/010-trello.svg" width="60px" alt="Quora">
+        </div>
+        <div class="flex px-1">
+          <span class="text-white">2</span>
+        </div>
+        <div class="pl-6 flex-1 pr-6">
+          <div class="flex justify-between">
+            <div class="w-1/2">
+              <div class="mb-1">Trello Pro</div>
+              <div class="text-grey text-xs mb-6">Infinitely flexible. Incredibly easy to use. Great mobile apps. It's free. Trello keeps track of everything, from the big picture to the minute details.</div>
+            </div>
+            <div class="w-1/2 text-right">
+              <span class="bg-white text-blue rounded-full px-3 py-1 text-xs font-bold">$250.99</span>
+            </div>
+          </div>
+          <div class="border-b border-grey-darker mb-10"></div>
+        </div>
+      </div>
+
+      <div class="w-1/2 flex">
+        <div class="w-24">
+          <img src="../assets/img/016-shutterstock.svg" width="60px" alt="Quora">
+        </div>
+        <div class="flex px-1">
+          <span class="text-white">3</span>
+        </div>
+        <div class="pl-6 flex-1 pr-6">
+          <div class="flex justify-between">
+            <div class="w-1/2">
+              <div class="mb-1">ShutterStock</div>
+              <div class="text-grey text-xs mb-6">Search millions of royalty free stock photos, pictures, and videos. Get inspired by ten thousand new, high-resolution images added daily.</div>
+            </div>
+            <div class="w-1/2 text-right">
+              <span class="bg-white text-blue rounded-full px-3 py-1 text-xs font-bold">$59.99</span>
+            </div>
+          </div>
+          <div class="border-b border-grey-darker mb-10"></div>
+        </div>
+      </div>
+
+      <div class="w-1/2 flex">
+        <div class="w-24">
+          <img src="../assets/img/020-plaxo.svg" width="60px" alt="Quora">
+        </div>
+        <div class="flex px-1">
+          <span class="text-white">4</span>
+        </div>
+        <div class="pl-6 flex-1 pr-6">
+          <div class="flex justify-between">
+            <div class="w-1/2">
+              <div class="mb-1">Plaxo Pro</div>
+              <div class="text-grey text-xs mb-6">Plaxo is an internet company that works and specializes in important problems in the consumer Web space, pioneering the “smart address book.</div>
+            </div>
+            <div class="w-1/2 text-right">
+              <span class="bg-white text-blue rounded-full px-3 py-1 text-xs font-bold">$149.99</span>
+            </div>
+          </div>
+          <div class="border-b border-grey-darker mb-10"></div>
+        </div>
+      </div>
+
+      <div class="w-1/2 flex">
+        <div class="w-24">
+          <img src="../assets/img/022-periscope.svg" width="60px" alt="Quora">
+        </div>
+        <div class="flex px-1">
+          <span class="text-white">5</span>
+        </div>
+        <div class="pl-6 flex-1 pr-6">
+          <div class="flex justify-between">
+            <div class="w-1/2">
+              <div class="mb-1">Periscope</div>
+              <div class="text-grey text-xs mb-6">Periscope is a live video streaming app for Android and iOS developed by Kayvon Beykpour and Joe Bernstein and acquired by Twitter before launch in 2015.</div>
+            </div>
+            <div class="w-1/2 text-right">
+              <span class="bg-white text-blue rounded-full px-3 py-1 text-xs font-bold">$599.99</span>
+            </div>
+          </div>
+          <div class="border-b border-grey-darker mb-10"></div>
+        </div>
+      </div>
+
+      <div class="w-1/2 flex">
+        <div class="w-24">
+          <img src="../assets/img/017-scribd.svg" width="60px" alt="Quora">
+        </div>
+        <div class="flex px-1">
+          <span class="text-white">6</span>
+        </div>
+        <div class="pl-6 flex-1 pr-6">
+          <div class="flex justify-between">
+            <div class="w-1/2">
+              <div class="mb-1">Scribd Premium</div>
+              <div class="text-grey text-xs mb-6">Scribd is a digital library, e-book and audiobook subscription service that includes one million titles.</div>
+            </div>
+            <div class="w-1/2 text-right">
+              <span class="bg-white text-blue rounded-full px-3 py-1 text-xs font-bold">$399.99</span>
+            </div>
+          </div>
+          <div class="border-b border-grey-darker mb-10"></div>
+        </div>
+      </div>
+
+    </div>
+
+    <div class="border-b border-grey-darker mb-6"></div>
+
+    <div class="py-2 mb-6">
+      <span>Terms & Conditions</span>
+    </div>
   </div>
 </template>
 
